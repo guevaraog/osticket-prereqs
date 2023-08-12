@@ -50,3 +50,36 @@ First setup a resource group for your virtual machine.
 Next you will setup a virtual machine using windows 10.
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/Mc8qJOq.png" height="20%" width="20%" alt="ISS CGI and HTTP"/>
+</p>
+<p>
+Install / Enable IIS CGI and common HTTP Features
+
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/K2MbbHI.png" height="40%" width="40%" alt="ISS Windows"/>
+</p>
+<p>
+You can tell if you put it in ISS correctly by typing 127.0.0.1 which will pull up this website if it's in ISS otherwise it won't come up.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/YRFlQP0.png" height="80%" width="70%" alt="Virtual Machine"/>
+</p>
+<p>
+Next you will setup a virtual machine using windows 10.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/YRFlQP0.png" height="80%" width="70%" alt="Virtual Machine"/>
+</p>
+<p>
+Next you will setup a virtual machine using windows 10.
+</p>
+<br />
