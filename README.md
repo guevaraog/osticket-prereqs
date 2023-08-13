@@ -147,7 +147,7 @@ Enable: php_intl.dll
 <br />
 Enable: php_opcache.dll
 <br />
-Refresh the osTicket site in your browse, observe the changes.
+Refresh the osTicket site in your browser, observe the changes.
 </p>
 <br />
 
