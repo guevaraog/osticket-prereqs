@@ -129,9 +129,43 @@ Extract and copy “upload” folder to c:\inetpub\wwwroot and within c:\inetpub
 <img src="https://i.imgur.com/QZLg9vL.png" height="40%" width="40%" alt="osTicket installed!"/>
 </p>
 <p>
+Reload IIS (Open IIS, Stop and Start the server),
 Go to sites -> Default -> osTicket
-On the right, click “Browse *:80” and congratulations you have succesfully installed osTicket next we will format and edit a couple of settings for optimal performance. 
+On the right, click “Browse *:80” and you will see osTicket pop up. 
+<br />
+Note that some extensions are not enabled
+<br />
+Go back to IIS, sites -> Default -> osTicket
+<br />
+Double-click PHP Manager
+<br />
+Click “Enable or disable an extension”
+<br />
+Enable: php_imap.dll
+<br />
+Enable: php_intl.dll
+<br />
+Enable: php_opcache.dll
+<br />
+Refresh the osTicket site in your browse, observe the changes.
 </p>
 <br />
 
+<p>
+<img src="https://i.imgur.com/QZLg9vL.png" height="40%" width="40%" alt="osTicket installed!"/>
+</p>
+<p>
+Go to sites -> Default -> osTicket
+On the right, click “Browse *:80” and you will see osTicket pop up. 
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/QZLg9vL.png" height="40%" width="40%" alt="osTicket installed!"/>
+</p>
+<p>
+Go to sites -> Default -> osTicket
+On the right, click “Browse *:80” and you will see osTicket pop up. 
+</p>
+<br />
 
