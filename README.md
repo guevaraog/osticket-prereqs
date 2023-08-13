@@ -101,7 +101,7 @@ Next you will download and install Visual C++.
 <br />
 
 <p>
-<img src="https://i.imgur.com/SBtC7du.png" height="40%" width="40%" alt="SQL"/>
+<img src="https://i.imgur.com/SBtC7du.png" height="30%" width="30%" alt="SQL"/>
 </p>
 <p>
 Next you will download and install SQL. 
@@ -109,9 +109,29 @@ Next you will download and install SQL.
 <br />
 
 <p>
-<img src="https://i.imgur.com/YRFlQP0.png" height="80%" width="70%" alt="Virtual Machine"/>
+<img src="https://i.imgur.com/9LmnIC9.png" height="40%" width="40%" alt="Register PHP"/>
 </p>
 <p>
-Next you will setup a virtual machine using windows 10.
+Next you will open IIS as admin and register and restart server so changes are applied. 
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/61pjSFs.png" height="40%" width="40%" alt="wwwroot folder"/>
+</p>
+<p>
+Download osTicket from the Installation Files Folder
+Extract and copy “upload” folder to c:\inetpub\wwwroot and within c:\inetpub\wwwroot rename “upload” to “osTicket”
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/QZLg9vL.png" height="40%" width="40%" alt="osTicket installed!"/>
+</p>
+<p>
+Go to sites -> Default -> osTicket
+On the right, click “Browse *:80” and congratulations you have succesfully installed osTicket next we will format and edit a couple of settings for optimal performance. 
+</p>
+<br />
+
+
