@@ -44,7 +44,7 @@ First setup a resource group for your virtual machine.
 <br />
 
 <p>
-<img src="https://i.imgur.com/YRFlQP0.png" height="80%" width="70%" alt="Virtual Machine"/>
+<img src="https://i.imgur.com/YRFlQP0.png" height="50%" width="50%" alt="Virtual Machine"/>
 </p>
 <p>
 Next you will setup a virtual machine using windows 10.
@@ -64,15 +64,47 @@ Install / Enable IIS CGI and common HTTP Features
 <img src="https://i.imgur.com/K2MbbHI.png" height="40%" width="40%" alt="ISS Windows"/>
 </p>
 <p>
-You can tell if you put it in ISS correctly by typing 127.0.0.1 which will pull up this website if it's in ISS otherwise it won't come up.
+You can tell if you put it in IIS correctly by typing 127.0.0.1 which will pull up this website if it's in ISS otherwise it won't come up.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/YRFlQP0.png" height="80%" width="70%" alt="Virtual Machine"/>
+<img src="https://i.imgur.com/94FYBYo.png" height="30%" width="30%" alt="PHP Manager for IIS"/>
 </p>
 <p>
-Next you will setup a virtual machine using windows 10.
+Next you will download and install PHP Manager for IIS
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/0X0jW6a.png" height="30%" width="30%" alt="Rewrite Module"/>
+</p>
+<p>
+Next you will download and install Rewrite Module.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/7DlCCmu.png" height="40%" width="40%" alt="C:/PHP"/>
+</p>
+<p>
+Next you will create a folder named PHP in C:/ drive. You will then dowload and unzip PHP inside of this folder and the files inside should look like the picture above.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/0nAiEyy.png" height="40%" width="40%" alt="Visual C++"/>
+</p>
+<p>
+Next you will download and install Visual C++.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/SBtC7du.png" height="40%" width="40%" alt="SQL"/>
+</p>
+<p>
+Next you will download and install SQL. 
 </p>
 <br />
 
