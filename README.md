@@ -152,20 +152,18 @@ Refresh the osTicket site in your browser, observe the changes.
 <br />
 
 <p>
-<img src="https://i.imgur.com/QZLg9vL.png" height="40%" width="40%" alt="osTicket installed!"/>
+<img src="https://i.imgur.com/5lUqvBF.png" height="40%" width="40%" alt="osTicket installed!"/>
 </p>
 <p>
-Go to sites -> Default -> osTicket
-On the right, click “Browse *:80” and you will see osTicket pop up. 
+Download and install HeidiSQL and setup a database named: osTicket.  
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/QZLg9vL.png" height="40%" width="40%" alt="osTicket installed!"/>
+<img src="https://i.imgur.com/cPgpUpI.png" height="40%" width="40%" alt="osTicket installed!"/>
 </p>
 <p>
-Go to sites -> Default -> osTicket
-On the right, click “Browse *:80” and you will see osTicket pop up. 
+Congratulations the initial osTicket installation is successful!
 </p>
 <br />
 
